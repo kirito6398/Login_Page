@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login_Page</string>
+    <string name="login">LogIn</string>
+    <string name="activity_login1">Log In</string>
+    <string name="activity_login2">Not yet registered? Sign Up</string>
+    <string name="activity_main1">Welcome</string>
+    <string name="activity_main2">Log In</string>
+    <string name="activity_sign1">Sign Up</string>
+    <string name="activity_sign3">Already an user? Login</string>
+</resources>
